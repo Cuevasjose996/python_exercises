@@ -2,7 +2,7 @@
 
 numeros=[]
 
-print("Este programa selecciona el valor mas alto de tres numeros.")
+print("Este programa selecciona el valor mas cercano al primer numero.")
 
 numero1=input("Ingrese primer numero: ")
 
